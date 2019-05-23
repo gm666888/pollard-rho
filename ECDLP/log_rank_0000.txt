@@ -1,0 +1,20 @@
+2019-05-20 21:58:58: Rank 0 started on node MPI
+info.totalram 7885 MiB
+sizeof(List) 392
+Watch name                         CPU Time   Wall Time        Percentage
+init_branches                          0.00        0.00              0.0%
+random number                          0.00        0.00              0.0%
+partition_function                     0.00        0.00              0.0%
+iteration_function                     0.00        0.00              0.0%
+calculate_result                       0.00        0.00              0.0%
+Modular Inverse                        0.17        0.17              0.1%
+Communication                          0.03        0.03              0.0%
+other                                  0.00        0.00              0.0%
+Inserting into hashtable               0.00        0.00              0.0%
+Reading args                           0.00        0.00              0.0%
+Server Waiting for points            238.60      244.58             99.9%
+Server Parsing                         0.01        0.01              0.0%
+Total Wall Time 244.79
+CSV,init_branches,random number,partition_function,iteration_function,calculate_result,Modular Inverse,Communication,other,Inserting into hashtable,Reading args,Server Waiting for points,Server Parsing
+CSV,0.00,0.00,0.00,0.00,0.00,0.17,0.03,0.00,0.00,0.00,244.58,0.01
+2019-05-21 15:26:13: Rank 0 started on node MPI

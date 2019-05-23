@@ -1,0 +1,14 @@
+2019-05-20 21:58:58: Rank 2 started on node MPI
+Watch name                         CPU Time   Wall Time        Percentage
+init_branches                          0.00        0.00              0.0%
+random number                          0.00        0.00              0.0%
+partition_function                     2.47        2.54              1.0%
+iteration_function                    14.42       15.19              6.2%
+calculate_result                       0.00        0.00              0.0%
+Modular Inverse                      187.03      196.76             80.4%
+Communication                         16.75       17.70              7.2%
+other                                 11.91       12.61              5.2%
+Reading args                           0.00        0.00              0.0%
+Total Wall Time 244.79
+
+CSV,0.00,0.00,2.54,15.19,0.00,196.76,17.70,12.61,0.00
